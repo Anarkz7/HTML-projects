@@ -1,9 +1,3 @@
-¡Perfecto! Ya tengo tu archivo HTML. No te preocupes por el desorden; 
-he recopilado todas las etiquetas y conceptos que has incluido. 
-A continuación, te presento tus apuntes de HTML completamente organizados 
-y con explicaciones, listos para tu examen del jueves.
-
----
 
 ### **Apuntes de HTML: La Guía Definitiva**
 
